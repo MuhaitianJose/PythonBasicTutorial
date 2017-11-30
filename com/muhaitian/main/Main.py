@@ -7,6 +7,7 @@ import sys
 from cProfile import help
 
 from com.muhaitian.chapter_eleven import ElevenInstance
+from com.muhaitian.chapter_fourteen import NetworkProgramming
 from com.muhaitian.chapter_ten import Module
 # ===================================================
 # eight queens
@@ -35,6 +36,8 @@ from com.muhaitian.chapter_ten import Module
 # str = fileMu.readline()
 # print 'str='+str
 # ==================================================================================
-from com.muhaitian.chapter_twelve import FileEditor
-
-FileEditor.openEditor()
+# from com.muhaitian.chapter_twelve import FileEditor
+#
+# FileEditor.openEditor()
+# ========================================================================
+NetworkProgramming.startSocketService()

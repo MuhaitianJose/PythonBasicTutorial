@@ -1,15 +1,46 @@
 import wx
 
+
+def load(event):
+    file = open(filename.GetValue())
+    contents.SetValue(file.read())
+    file.close()
+    print 'open'
+
+
+def save(event):
+    file = open(filename.GetValue(), 'w+')
+
+    file.write(contents.GetValue().encode("UTF-8"))
+    file.close()
+    print 'save'
+
+
 app = wx.App()
 win = wx.Frame(None, title="Simple Editor", size=(800, 500))
-loadButton = wx.Button(win, label="open", pos=(580, 5), size=(80, 25))
-saveButton = wx.Button(win, label="Save", pos=(680, 5), size=(80, 25))
-filename = wx.TextCtrl(win, pos=(5, 5), size=(570, 25))
-contents = wx.TextCtrl(win, pos=(5, 35), size=(790, 460), style=wx.TE_MULTILINE | wx.HSCROLL)
+bkg = wx.Panel(win)
+loadButton = wx.Button(bkg, label="open")
+loadButton.Bind(wx.EVT_BUTTON, load)
+saveButton = wx.Button(bkg, label="Save")
+saveButton.Bind(wx.EVT_BUTTON, save)
+filename = wx.TextCtrl(bkg)
+contents = wx.TextCtrl(bkg, style=wx.TE_MULTILINE | wx.HSCROLL)
+
+hbox = wx.BoxSizer()
+hbox.Add(filename, proportion=1, flag=wx.EXPAND)
+hbox.Add(loadButton, proportion=0, flag=wx.LEFT, border=5)
+hbox.Add(saveButton, proportion=0, flag=wx.LEFT, border=5)
+
+vbox = wx.BoxSizer(wx.VERTICAL)
+vbox.Add(hbox, proportion=0.5, flag=wx.EXPAND | wx.ALL, border=5)
+vbox.Add(contents, proportion=1, flag=wx.EXPAND | wx.LEFT | wx.BOTTOM | wx.RIGHT, border=5)
+bkg.SetSizer(vbox)
+
 
 def hello():
     print 'Hello, world!'
+
+
 def openEditor():
-    loadButton.Bind(wx.EVT_BUTTON,hello)
     win.Show()
     app.MainLoop()

@@ -1,3 +1,6 @@
+from com.muhaitian.chapter_fourteen import NetworkProgramming
+
+
 def conflict(state, nextX):
     nextY = len(state)
     for i in range(nextY):
@@ -22,3 +25,4 @@ def prettyPrint(solution):
 
     for pos in solution:
         print line(pos)
+NetworkProgramming.sendSomethingtoService()
