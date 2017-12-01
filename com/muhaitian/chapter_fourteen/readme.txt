@@ -4,3 +4,13 @@ Python在处理字节流的各种模式方面很擅长
 
 相关模块：
 1.socket:
+SocketServer 模块是标准库中很多服务器框架的基础。这些服务器框架包括BaseHttpServer、SimpleHTTPServer、CGIHTTPServer、
+SimpleXMLRPCServer和DocXMLRPCServer，所有的这些服务器框架都为基础服务器增加了特定的功能
+SocketServer包含了四个基本类：针对TCP套接字流的TCPServer；针对UDP数据报套接字的UDPServer；以及针对性不强的UnixSreamServer
+和UnixDatagramServer(最后三个可能用不到)
+多连接处理问题
+有三种主要的方法能实现这个目的：分叉（forKing）、线程（threading）以及异步I/O(asynchronous)
+
+带有select 和 poll的异步I/O
+
+

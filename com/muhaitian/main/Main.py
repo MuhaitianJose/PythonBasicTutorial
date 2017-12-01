@@ -40,4 +40,4 @@ from com.muhaitian.chapter_ten import Module
 #
 # FileEditor.openEditor()
 # ========================================================================
-NetworkProgramming.startSocketService()
+NetworkProgramming.useSelect()
