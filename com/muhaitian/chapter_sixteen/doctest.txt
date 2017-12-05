@@ -1,0 +1,5 @@
+>>> from com.muhaitian.chapter_sixteen import DocTest
+>>> multiply(3, 4)
+12
+>>> multiply('a', 3)
+'aaa'

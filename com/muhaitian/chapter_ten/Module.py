@@ -1,3 +1,5 @@
+from com.muhaitian.chapter_sixteen import DocTest
+
 value = {'muhaitian': 'jose'}
 
 

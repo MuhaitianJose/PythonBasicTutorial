@@ -4,7 +4,9 @@ from SocketServer import StreamRequestHandler, TCPServer, ForkingMixIn, Threadin
 from urllib import urlopen, urlretrieve, urlcleanup
 
 import select
-from twisted.internet.protocol import Protocol
+from twisted.internet import reactor
+from twisted.internet.protocol import Protocol, Factory
+from twisted.protocols.basic import LineReceiver
 
 
 def startSocketService():
@@ -89,7 +91,6 @@ def startSocketServer3():
 # 使用了select的简单服务器
 
 
-
 def useSelect():
     ser = socket.socket()
     host = socket.gethostname()
@@ -115,6 +116,8 @@ def useSelect():
                     inputs.remove(r)
                 else:
                     print 'data'
+
+
 # poll的使用（window下不能使用）
 # POLLIN：读取来自文件描述符的数据
 # POLLPRI：读取来自文件描述符的紧急数据
@@ -130,7 +133,32 @@ class SimpleLogger(Protocol):
         print data
 
     def connectionLost(self, reason):
-        print self.transport.client,'disconnected'
+        print self.transport.client, 'disconnected'
 
     def connectionMade(self):
-       print 'Got connection from',self.transport.client
+        print 'Got connection from', self.transport.client
+
+
+def startSimpleLogger():
+    factory = Factory()
+    factory.protocol = SimpleLogger
+    reactor.listenTCP(1234, factory)
+    reactor.run()
+
+
+class SimpleLoggerLine(LineReceiver):
+    def connectionLost(self, reason):
+        print self.transport.client, 'disconnected'
+
+    def connectionMade(self):
+        print 'Got connection from', self.transport.client
+
+    def lineReceived(self, line):
+        print line
+
+
+def startSimpleLoggerLine():
+    factory = Factory()
+    factory.protocol = SimpleLoggerLine
+    reactor.listenTCP(1234, factory)
+    reactor.run()

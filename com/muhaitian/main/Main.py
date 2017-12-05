@@ -1,14 +1,3 @@
-import fileinput
-import pprint
-import random
-import re
-
-import sys
-from cProfile import help
-
-from com.muhaitian.chapter_eleven import ElevenInstance
-from com.muhaitian.chapter_fourteen import NetworkProgramming
-from com.muhaitian.chapter_ten import Module
 # ===================================================
 # eight queens
 # print list(queens(4))
@@ -40,4 +29,8 @@ from com.muhaitian.chapter_ten import Module
 #
 # FileEditor.openEditor()
 # ========================================================================
-NetworkProgramming.useSelect()
+from com.muhaitian.chapter_fifteen import TidyTest
+from com.muhaitian.chapter_fourteen import NetworkProgramming
+
+# NetworkProgramming.startSimpleLoggerLine()
+TidyTest.testHTMLParser()
