@@ -147,6 +147,9 @@ def startSimpleLogger():
 
 
 class SimpleLoggerLine(LineReceiver):
+    def rawDataReceived(self, data):
+        pass
+
     def connectionLost(self, reason):
         print self.transport.client, 'disconnected'
 
