@@ -2,43 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="efe7d447-326f-4738-a1b8-9eb9b074d71d" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/com/muhaitian/chapter21/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/com/muhaitian/chapter21/hello_report.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/com/muhaitian/chapter21/readme.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/com/muhaitian/chapter22/WebsetParser.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/com/muhaitian/chapter22/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/com/muhaitian/chapter22/readme.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/com/muhaitian/chapter22/website.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/com/muhaitian/chapter23/NntpNews.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/com/muhaitian/chapter23/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/com/muhaitian/chapter23/readme.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/com/muhaitian/chapter24/ChatServer.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/com/muhaitian/chapter24/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/com/muhaitian/chapter24/readme.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/com/muhaitian/chapter25/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/com/muhaitian/chapter25/readme.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/com/muhaitian/chapter26/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/com/muhaitian/chapter26/readme.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/com/muhaitian/chapter27/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/com/muhaitian/chapter27/readme.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/com/muhaitian/chapter28/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/com/muhaitian/chapter28/readme.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/com/muhaitian/chapter29/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/com/muhaitian/chapter29/readme.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/com/muhaitian/chapter_eighteen/Hello.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/com/muhaitian/chapter_eighteen/readme_ptython.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/com/muhaitian/chapter_eighteen/setup.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/com/muhaitian/chapter_nineteen/Configuration.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/com/muhaitian/chapter_nineteen/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/com/muhaitian/chapter_nineteen/python.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/com/muhaitian/chapter_nineteen/readme.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/com/muhaitian/chapter_twenty/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/com/muhaitian/chapter_twenty/readme.txt" />
-      <change beforePath="$PROJECT_DIR$/.idea/PythonBasicTutorial.iml" afterPath="$PROJECT_DIR$/.idea/PythonBasicTutorial.iml" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/com/muhaitian/chapter_eighteen/readme.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/com/muhaitian/chapter_fourteen/NetworkProgramming.py" afterPath="$PROJECT_DIR$/com/muhaitian/chapter_fourteen/NetworkProgramming.py" />
-      <change beforePath="$PROJECT_DIR$/com/muhaitian/chapter_ten/Module.py" afterPath="$PROJECT_DIR$/com/muhaitian/chapter_ten/Module.py" />
+      <change beforePath="$PROJECT_DIR$/com/muhaitian/chapter24/ChatServer.py" afterPath="$PROJECT_DIR$/com/muhaitian/chapter24/ChatServer.py" />
+      <change beforePath="$PROJECT_DIR$/com/muhaitian/chapter_fifteen/faulty.cgi" afterPath="$PROJECT_DIR$/com/muhaitian/chapter_fifteen/faulty.cgi" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -50,33 +15,43 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="readme.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/com/muhaitian/chapter24/readme.txt">
+        <entry file="file://$PROJECT_DIR$/com/muhaitian/chapter_fifteen/readme.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="25">
-              <caret line="1" column="13" lean-forward="true" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ChatServer.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/com/muhaitian/chapter24/ChatServer.py">
+      <file leaf-file-name="faulty.cgi" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/com/muhaitian/chapter_fifteen/faulty.cgi">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="14" column="4" lean-forward="false" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="simple.cgi" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/com/muhaitian/chapter_fifteen/simple.cgi">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TidyTest.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/com/muhaitian/chapter_fifteen/TidyTest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
-                <element signature="e#19#34#0" expanded="true" />
+                <element signature="e#0#33#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="asyncore.py" pinned="false" current-in-tab="false">
-        <entry file="file://C:/Python27/Lib/asyncore.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3525">
-              <caret line="204" column="4" lean-forward="false" selection-start-line="204" selection-start-column="4" selection-end-line="204" selection-end-column="4" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -100,9 +75,15 @@
       <find>this</find>
       <find>twi</find>
       <find>twisted</find>
+      <find>SOCK_STREAM</find>
+      <find>__init__</find>
+      <find>open</find>
+      <find>ChatSession</find>
+      <find>ChatSession_</find>
     </findStrings>
     <dirStrings>
       <dir>H:\PythonWorkSpace\PythonBasicTutorial\com\muhaitian</dir>
+      <dir>H:\PythonWorkSpace\PythonBasicTutorial</dir>
       <dir>H:\PythonWorkSpace\PythonBasicTutorial\com</dir>
     </dirStrings>
   </component>
@@ -118,7 +99,6 @@
         <option value="$PROJECT_DIR$/com/muhaitian/main/Main.py" />
         <option value="$PROJECT_DIR$/com/muhaitian/chapter_fifteen/TidyTest.py" />
         <option value="$PROJECT_DIR$/com/muhaitian/chapter_fifteen/simple.cgi" />
-        <option value="$PROJECT_DIR$/com/muhaitian/chapter_fifteen/faulty.cgi" />
         <option value="$PROJECT_DIR$/com/muhaitian/chapter_fifteen/readme.txt" />
         <option value="$PROJECT_DIR$/com/muhaitian/chapter_sixteen/test.py" />
         <option value="$PROJECT_DIR$/com/muhaitian/chapter_sixteen/doctest.txt" />
@@ -161,13 +141,14 @@
         <option value="$PROJECT_DIR$/com/muhaitian/chapter23/NntpNews.py" />
         <option value="$PROJECT_DIR$/com/muhaitian/chapter_fourteen/NetworkProgramming.py" />
         <option value="$PROJECT_DIR$/com/muhaitian/chapter24/readme.txt" />
+        <option value="$PROJECT_DIR$/com/muhaitian/chapter_fifteen/faulty.cgi" />
         <option value="$PROJECT_DIR$/com/muhaitian/chapter24/ChatServer.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="966" />
-    <option name="y" value="318" />
+    <option name="x" value="183" />
+    <option name="y" value="481" />
     <option name="width" value="1440" />
     <option name="height" value="761" />
   </component>
@@ -229,7 +210,14 @@
               <item name="PythonBasicTutorial" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="muhaitian" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter24" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter25" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonBasicTutorial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonBasicTutorial" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="muhaitian" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter_fifteen" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PythonBasicTutorial" type="b2602c69:ProjectViewProjectNode" />
@@ -430,19 +418,19 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="966" y="318" width="1440" height="761" extended-state="0" />
+    <frame x="183" y="481" width="1440" height="761" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20756063" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21086957" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3728" sideWeight="0.5028531" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2832" sideWeight="0.49714693" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -460,56 +448,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/com/muhaitian/chapter_sixteen/DocTest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="18" />
-          <folding>
-            <element signature="e#134#148#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com/muhaitian/chapter_seventeenth/JythonTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com/muhaitian/chapter_seventeenth/palindrome.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com/muhaitian/chapter_seventeenth/palindrome.i">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="37" lean-forward="false" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Python27/Lib/distutils/core.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="171" column="0" lean-forward="false" selection-start-line="171" selection-start-column="0" selection-end-line="171" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com/muhaitian/chapter_eighteen/Hello.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/com/muhaitian/chapter_eighteen/setup.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
@@ -746,14 +684,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/com/muhaitian/chapter25/readme.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="15" lean-forward="false" selection-start-line="0" selection-start-column="15" selection-end-line="0" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/com/muhaitian/chapter26/readme.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -810,24 +740,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/com/muhaitian/chapter_fourteen/NetworkProgramming.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="149" column="36" lean-forward="true" selection-start-line="149" selection-start-column="36" selection-end-line="149" selection-end-column="36" />
-          <folding>
-            <element signature="e#19#32#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com/muhaitian/chapter23/NntpNews.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="50" lean-forward="true" selection-start-line="3" selection-start-column="50" selection-end-line="3" selection-end-column="50" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/com/muhaitian/chapter22/public_html/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -844,16 +756,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/com/muhaitian/chapter22/WebsetParser.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="81" column="0" lean-forward="false" selection-start-line="81" selection-start-column="0" selection-end-line="81" selection-end-column="0" />
-          <folding>
-            <element signature="e#19#61#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/com/muhaitian/chapter24/readme.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="25">
@@ -862,20 +764,102 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/com/muhaitian/chapter_fourteen/NetworkProgramming.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="13" lean-forward="false" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27/Lib/socket.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="184" column="55" lean-forward="false" selection-start-line="184" selection-start-column="44" selection-end-line="184" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://C:/Python27/Lib/asyncore.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3525">
+        <state relative-caret-position="132">
           <caret line="204" column="4" lean-forward="false" selection-start-line="204" selection-start-column="4" selection-end-line="204" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/muhaitian/chapter23/NntpNews.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="50" lean-forward="true" selection-start-line="3" selection-start-column="50" selection-end-line="3" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/muhaitian/chapter22/WebsetParser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="116" column="24" lean-forward="false" selection-start-line="116" selection-start-column="6" selection-end-line="116" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27/Lib/asynchat.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-18">
+          <caret line="54" column="6" lean-forward="false" selection-start-line="54" selection-start-column="6" selection-end-line="54" selection-end-column="6" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/com/muhaitian/chapter24/ChatServer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="14" column="4" lean-forward="false" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+        <state relative-caret-position="42">
+          <caret line="335" column="34" lean-forward="true" selection-start-line="335" selection-start-column="34" selection-end-line="335" selection-end-column="34" />
           <folding>
             <element signature="e#19#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/muhaitian/chapter25/readme.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="15" lean-forward="false" selection-start-line="0" selection-start-column="15" selection-end-line="0" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/muhaitian/chapter_fifteen/faulty.cgi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/muhaitian/chapter_fifteen/readme.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/muhaitian/chapter_fifteen/simple.cgi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/muhaitian/chapter_fifteen/TidyTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#33#0" expanded="true" />
           </folding>
         </state>
       </provider>

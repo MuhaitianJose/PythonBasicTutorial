@@ -1,5 +1,6 @@
 #!C:\Python27\python.exe
 
+use strict;
 import cgitb: cgitb.enable()
 
 print 'Content-type:text/html'
